@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state='expanded'
 )
 
-st.title('Insurace Cost Prediction')
+st.title('Insurance Cost Prediction')
 st.markdown('---')
 
 st.markdown("""
